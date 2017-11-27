@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.GridPane?>
+<?import java.net.URL?>
+<fx:root xmlns:fx="http://javafx.com/fxml/1" type="GridPane"
+         xmlns="http://javafx.com/javafx/8.0.121">
+    <stylesheets>
+        <URL value="@/com/res/styles/css-root.css"/>
+    </stylesheets>
+</fx:root>
